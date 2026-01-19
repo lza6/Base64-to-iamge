@@ -11,6 +11,12 @@
 
 ---
 
+# 效果展示(支持图像到base64互转，免费无广告)：
+<img width="2526" height="1314" alt="QQ_1768824272971" src="https://github.com/user-attachments/assets/7124cb8d-6aed-485d-8d59-3e58fc79a4a0" />
+<img width="2547" height="1329" alt="QQ_1768824286975" src="https://github.com/user-attachments/assets/a2eb2b54-7cb9-4af5-bb19-d12604b8cb3f" />
+<img width="696" height="645" alt="28f5916adf55c18f0643c28e93c23b6a" src="https://github.com/user-attachments/assets/88aefa99-0dbe-4645-9f77-fd7499ea6656" />
+
+
 ## 🎨 视觉美学 (UI/UX)
 
 本引擎采用了现代化的 **Glassmorphism V2 (毛玻璃)** 设计语言：
